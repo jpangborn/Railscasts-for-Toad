@@ -10,6 +10,8 @@ In Toad for Oracle:
 2. Click Import.
 3. Select the Railscasts for Toad.lcf file to import color scheme.
 
+You will also need to set your Background in Toad Options -> Editor -> Display to a custom color: Red - 40, Green - 40, Blue - 40.
+
 ## Release Notes
 
 RailsCasts theme is designed to work with the Toad for Oracle 11. Not tested on any other version of Toad.

@@ -4,7 +4,11 @@ Railscasts Color scheme for Toad for Oracle. Based on
 
 ## Installation
 
-In Toad for Oracle, open Syntax Highlighting Option (View -> Toad Options -> Editor -> Behavior -> Syntax Highlighting) and click Import. Select the Railscasts for Toad.lcf file to import color scheme.
+In Toad for Oracle:
+
+1. Open Syntax Highlighting Option (View -> Toad Options -> Editor -> Behavior -> Syntax Highlighting)
+2. Click Import.
+3. Select the Railscasts for Toad.lcf file to import color scheme.
 
 ## Release Notes
 

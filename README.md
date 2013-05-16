@@ -1,6 +1,6 @@
 # Railscasts for Toad for Oracle
 
-Railscasts Color scheme for Toad for Oracle. Based on RailsCasts Theme by Ryan Bates (http://railscasts.com/ and the SublimeText 2 version by rafamoreira (https://github.com/rafamoreira/sublime-text/tree/master/RailsCasts%20Colour%20Scheme)
+Railscasts color scheme for Toad for Oracle. Based on RailsCasts Theme by Ryan Bates (http://railscasts.com/ and the SublimeText 2 version by rafamoreira (https://github.com/rafamoreira/sublime-text/tree/master/RailsCasts%20Colour%20Scheme)
 
 ## Installation
 
@@ -18,7 +18,7 @@ RailsCasts theme is designed to work with the Toad for Oracle 11. Not tested on 
 
 ## License
 
-Railscasts for Toad for Oracle is licensed under the Creative Commons Attribution-ShareAlike 3.0 License. You are free to share the theme.
+Railscasts for Toad for Oracle is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share the theme.
 
 The following details apply to the Creative Commons license "author specified" components:
 

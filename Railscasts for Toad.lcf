@@ -4,7 +4,7 @@ object FSynt: TSyntAnalyzer
       DisplayName = 'Default'
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWhite
-      Font.Height = -16
+      Font.Height = -15
       Font.Name = 'Source Code Pro'
       Font.Style = []
       FormatType = ftCustomFont
@@ -163,15 +163,19 @@ object FSynt: TSyntAnalyzer
     item
       DisplayName = '()'
       Font.Charset = DEFAULT_CHARSET
-      Font.Color = clWindowText
+      Font.Color = 2631720
       Font.Height = -13
       Font.Name = 'Courier'
-      Font.Style = [fsBold, fsUnderline]
-      BgColor = clBtnFace
-      BorderTypeLeft = blDot
-      BorderTypeTop = blDot
-      BorderTypeRight = blDot
-      BorderTypeBottom = blDot
+      Font.Style = [fsBold]
+      BgColor = 3373260
+      BorderTypeLeft = blSolid
+      BorderColorLeft = 2631720
+      BorderTypeTop = blSolid2
+      BorderColorTop = 2631720
+      BorderTypeRight = blSolid
+      BorderColorRight = 2631720
+      BorderTypeBottom = blSolid
+      BorderColorBottom = 2631720
     end
     item
       DisplayName = 'Big Bold (tree)'
@@ -1860,6 +1864,7 @@ object FSynt: TSyntAnalyzer
             'least'
             'length'
             'ln'
+            'lnnvl'
             'localtimestamp'
             'log'
             'lower'
